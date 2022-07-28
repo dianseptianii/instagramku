@@ -1,2 +1,2 @@
-# instagramku
+# webinstagram
 Created with CodeSandbox
